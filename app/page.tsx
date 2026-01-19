@@ -9,7 +9,7 @@ export default function Home() {
           I'm Karl Michael Dela Cruz
         </h1>
         <p className="mt-4 text-zinc-600 leading-relaxed">
-          Indie developer focused on building open-source tools and clean web experiences. 
+          Designer focused on building open-source tools and clean web experiences. 
           Currently exploring the intersection of AI and minimalist design.
         </p>
         
